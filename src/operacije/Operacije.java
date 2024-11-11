@@ -12,4 +12,7 @@ public class Operacije {
 
     public static final int LOGIN = 1;
     public static final int POSALJI_SVIMA = 2;
+    public static final int VRATI_USERE = 3;
+    public static final int POSALJI = 4;
+
 }
